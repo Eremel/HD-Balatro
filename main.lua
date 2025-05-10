@@ -45,7 +45,7 @@ AltTexture({ -- HD Seals
     set = 'Seal',
     path = 'hd_decks.png',
     loc_txt = {
-        name = 'HD Decks'
+        name = 'HD Seals'
     }
 })
 AltTexture({ -- HD Vouchers
@@ -53,7 +53,7 @@ AltTexture({ -- HD Vouchers
     set = 'Voucher',
     path = 'hd_vouchers.png',
     loc_txt = {
-        name = 'HD Decks'
+        name = 'HD Vouchers'
     }
 })
 AltTexture({ -- HD Boosters
@@ -61,7 +61,7 @@ AltTexture({ -- HD Boosters
     set = 'Booster',
     path = 'hd_boosters.png',
     loc_txt = {
-        name = 'HD Decks'
+        name = 'HD Boosters'
     }
 })
 AltTexture({ -- HD Enhancements
@@ -69,10 +69,10 @@ AltTexture({ -- HD Enhancements
     set = 'Enhanced',
     path = 'hd_decks.png',
     loc_txt = {
-        name = 'HD Decks'
+        name = 'HD Enhancements'
     }
 })
-AltTexture({ -- HD Enhancements
+AltTexture({ -- HD Stakes
     key = 'hd_stakes',
     set = 'Stake',
     path = 'hd_stakes.png',
@@ -81,7 +81,7 @@ AltTexture({ -- HD Enhancements
         name = 'HD Stakes'
     }
 })
-AltTexture({ -- HD Enhancements
+AltTexture({ -- HD Stickers
     key = 'hd_stickers',
     set = 'Sticker',
     path = 'hd_stickers.png',
@@ -89,7 +89,7 @@ AltTexture({ -- HD Enhancements
         name = 'HD Stickers'
     }
 })
-AltTexture({ -- HD Enhancements
+AltTexture({ -- HD Tarots
     key = 'hd_tarot',
     set = 'Tarot',
     path = 'hd_tarots.png',
@@ -97,21 +97,21 @@ AltTexture({ -- HD Enhancements
         name = 'HD Tarots'
     }
 })
-AltTexture({ -- HD Enhancements
+AltTexture({ -- HD Planets
     key = 'hd_planet',
     set = 'Planet',
     path = 'hd_tarots.png',
     loc_txt = {
-        name = 'HD Tarots'
+        name = 'HD Planets'
     }
 })
-AltTexture({ -- HD Enhancements
+AltTexture({ -- HD Spectrals
     key = 'hd_spectral',
     set = 'Spectral',
     path = 'hd_tarots.png',
     soul = 'hd_decks.png',
     loc_txt = {
-        name = 'HD Tarots'
+        name = 'HD Spectrals'
     }
 })
 TexturePack{ -- HD Texture Pack
